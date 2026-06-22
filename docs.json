@@ -1,0 +1,66 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Razor",
+  "colors": {
+    "primary": "#fe394a",
+    "light": "#ff6b7b",
+    "dark": "#fe394a"
+  },
+  "favicon": "/Public/img/razor.ico",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "introduction",
+          "get-license",
+          "quick-start"
+        ]
+      },
+      {
+        "group": "Setup Guide",
+        "pages": [
+          "setup-guide",
+          "dashboard-guide",
+          "lavalink-spotify",
+          "ai-chatbot",
+          "vps-hosting",
+          "addons-setup"
+        ]
+      },
+      {
+        "group": "Commands Reference",
+        "pages": [
+          "commands/setups",
+          "commands/moderation",
+          "commands/economy",
+          "commands/fun"
+        ]
+      },
+      {
+        "group": "Extra Information",
+        "pages": [
+          "change-log",
+          "faq/general"
+        ]
+      },
+      {
+        "group": "Legal",
+        "pages": [
+          "legal/terms-of-service",
+          "legal/privacy-policy"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/Public/img/razor-dark.png",
+    "dark": "/Public/img/razor-dark.png"
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/YSv9VqQg6g"
+    }
+  }
+}

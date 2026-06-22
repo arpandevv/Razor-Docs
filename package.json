@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "mintlify dev --port 6488",
+    "build": "mintlify validate"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "dependencies": {
+    "mintlify": "latest"
+  }
+}
