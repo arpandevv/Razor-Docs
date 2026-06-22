@@ -23,10 +23,16 @@
         "pages": [
           "setup-guide",
           "dashboard-guide",
-          "lavalink-spotify",
-          "ai-chatbot",
           "vps-hosting",
           "addons-setup"
+        ]
+      },
+      {
+        "group": "Other Guides",
+        "pages": [
+          "mongodb-setup",
+          "lavalink-spotify",
+          "ai-chatbot"
         ]
       },
       {
